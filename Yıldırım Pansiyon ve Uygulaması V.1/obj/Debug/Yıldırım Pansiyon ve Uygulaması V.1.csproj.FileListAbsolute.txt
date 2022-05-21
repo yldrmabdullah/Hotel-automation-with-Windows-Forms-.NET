@@ -1,0 +1,53 @@
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\bin\Debug\Yıldırım Pansiyon ve Uygulaması V.1.exe.config
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\bin\Debug\Yıldırım Pansiyon ve Uygulaması V.1.exe
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\bin\Debug\Yıldırım Pansiyon ve Uygulaması V.1.pdb
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.csproj.AssemblyReference.cache
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.Properties.Resources.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.csproj.GenerateResource.cache
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.csproj.CoreCompileInputs.cache
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.exe
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.pdb
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmYeniMusteri.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.frmAdminGiris.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.frmAnaForm.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmOdalar.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmMusteriler.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmGelirGider.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmStoklar.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\bin\Debug\Interop.WMPLib.dll
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Interop.WMPLib.dll
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.csproj.ResolveComReference.cache
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmRadyoDinle.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmGazeteler.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmSifreGuncelle.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.1\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmMesajlar.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\bin\Debug\Yıldırım Pansiyon ve Uygulaması V.1.exe.config
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\bin\Debug\Yıldırım Pansiyon ve Uygulaması V.1.exe
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\bin\Debug\Yıldırım Pansiyon ve Uygulaması V.1.pdb
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\bin\Debug\Interop.WMPLib.dll
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.csproj.AssemblyReference.cache
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Interop.WMPLib.dll
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.csproj.ResolveComReference.cache
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.frmAdminGiris.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmAnaForm.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmGazeteler.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmGelirGider.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmMesajlar.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmMusteriler.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmOdalar.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmRadyoDinle.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmSifreGuncelle.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmStoklar.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmYeniMusteri.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.Properties.Resources.resources
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.csproj.GenerateResource.cache
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.csproj.CoreCompileInputs.cache
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.exe
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım Pansiyon ve Uygulaması V.1.pdb
+C:\Users\abd35\source\repos\Yıldırım Pansiyon ve Uygulaması V.2(düzenlenecek)\Yıldırım Pansiyon ve Uygulaması V.1\obj\Debug\Yıldırım_Pansiyon_ve_Uygulaması_V._1.FrmPersoneller.resources
